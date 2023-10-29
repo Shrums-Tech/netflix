@@ -11,3 +11,14 @@
   position: relative;
   background-repeat: no-repeat;
 }
+.nav {
+  height: 10vh;
+  width: 100vw;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  z-index: 10;
+}
+
