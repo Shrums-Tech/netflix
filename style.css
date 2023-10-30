@@ -22,3 +22,19 @@
   z-index: 10;
 }
 
+.nav .logo {
+  width: 114px;
+  height: 100%;
+}
+
+.nav .btn-sign-in {
+  background-color: red;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: 500;
+  color: white;
+  font-size: 12px;
+  border: none;
+  font-family: Helvetica, sans-serif;
+}
+
