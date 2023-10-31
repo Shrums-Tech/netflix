@@ -97,3 +97,21 @@
   font-size: 24px;
 }
 
+.box-email .box-btn {
+  padding: 14px 45px;
+  background-color: red;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.box-email .box-btn .btn-start {
+  border: none;
+  background-color: red;
+  outline: none;
+  color: white;
+  font-weight: 500;
+  font-size: 24px;
+}
+
