@@ -164,3 +164,10 @@
   outline: none;
 }
 
+.trending-container .movies-container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin: auto;
+}
+
