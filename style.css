@@ -167,7 +167,7 @@
 .trending-container .movies-container {
   display: flex;
   flex-direction: row;
-  gap: 30px;
+  gap: 50px;
   margin: auto;
 }
 
