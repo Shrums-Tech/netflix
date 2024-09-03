@@ -30,7 +30,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="[murple_logo.png](https://media.licdn.com/dms/image/D4D0BAQHfDd791iZzPQ/company-logo_200_200/0/1708528704019?e=2147483647&v=beta&t=XCP9gqRU-0Wo10onmM7JgLpESVO4DvL3Z9VMccnZFcY)" alt="logo" width="140"  height="auto" />
+  <img src="https://media.licdn.com/dms/image/D4D0BAQHfDd791iZzPQ/company-logo_200_200/0/1708528704019?e=2147483647&v=beta&t=XCP9gqRU-0Wo10onmM7JgLpESVO4DvL3Z9VMccnZFcY" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>ShrumsTech README Template</b></h3>
