@@ -63,11 +63,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 NetFlix <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Create netflix clone using HTML, CSS for practice.
 
-**[your_project__name]** is a...
+**Netflix** is a social media platform which show movies, dramas and many more videos.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,21 +78,8 @@ For more information on the importance of a professional README for your reposit
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
+    <li><a href="https://html.com/">CSS</a></li>
   </ul>
 </details>
 
@@ -210,15 +197,10 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/samiullah997)
+- Twitter: [@twitterhandle](https://twitter.com/samiullahk997)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sami-full-stack)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
