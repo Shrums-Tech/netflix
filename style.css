@@ -174,3 +174,46 @@
 .movies-container .card > img {
   border-radius: 10px;
 }
+
+.reason-section {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  margin: 0px;
+  background-color: black;
+}
+
+.reason-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 40px auto;
+}
+
+.reason-container > h2 {
+  font-size: 24px;
+  font-weight: 500;
+  color: white;
+}
+
+.reason-container .card-section {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.reason-container .card-section .card {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.reason-container .card-section .card .card-header {
+  
+}
